@@ -1,10 +1,9 @@
 # Nessus Essentials Enterprise Vulnerability Assessment & Penetration Testing (VAPT) Lab
--	Installed and configured Nessus in a Windows environment to identify, classify, prioritise, and remediate assets.
--	Configured plugins, feeds, and uploaded audit files within Tenable to support tailored vulnerability and compliance scans.
--	Managed scan policies, as well as local and network credentials to enable authenticated access for scanning systems.
--	Gained an understanding of Nessus dashboards to set up notifications, monitor system health and analyse scan results.
--	Generated CSV-based technical reports, as well as non-technical scan health risk summaries for stakeholders.
--	Applied CIS Control 7 to assess compliance and generate actionable recommendations for securing the environment.
+-	Executed an authorised website penetration test with scope using Kali Linux tools for reconnaissance and exploitation.
+-	Utilised Nessus, Nmap, Hydra, OpenVAS, and Burp Suite to deliver and conduct exploits, including SQL injection.
+-	Scoped the target network and its running services using Nmap to identify vulnerabilities based on CVE risk factors.
+-	Explored patch management strategies defining how, when, and where infrastructure is updated, with risk metadata.
+-	Validated and documented false positives to improve scan accuracy and inform future VAPT baselines.
 
 ## Identification of Operating System on the Target  
 Conducted OS fingerprinting using a range of VAPT tools including GVM/OpenVAS, Nessus Essentials, and Burp Suite within virtualised and native environments. Troubleshot compatibility issues with systemd on Kali Linux in WSL and resolved persistent launch failures in VirtualBox by leveraging Windows Subsystem for Linux (WSL2). Successfully deployed and configured the latest Kali Rolling release via PowerShell, performing privileged package updates and environment setup for streamlined offensive security operations.
