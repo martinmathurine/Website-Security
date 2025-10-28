@@ -1,4 +1,4 @@
-# Nessus Essentials Enterprise Vulnerability Assessment & Penetration Testing (VAPT) Lab
+# Website Security Vulnerability Assessment & Penetration Testing (VAPT) Lab
 -	Executed an authorised website penetration test with scope using Kali Linux tools for reconnaissance and exploitation.
 -	Utilised Nessus, Nmap, Hydra, OpenVAS, and Burp Suite to deliver and conduct exploits, including SQL injection.
 -	Scoped the target network and its running services using Nmap to identify vulnerabilities based on CVE risk factors.
